@@ -1,6 +1,6 @@
-# coda_meteo
+# Facebook clone
 
- application de meteo
+ Un clone simplifier de facebook
 
 ## Getting Started
 
